@@ -1,6 +1,6 @@
 ## The VBA of Wall Street
 
-[The VBA scrip](VBA_Sctript.vb) loops through all sheets in the workbook and alos loops through the list of stocks for one year and outputs 
+[The VBA scrip](VBA_Sctript.vb) loops through all sheets in the workbook and alss loops through the list of stocks for one year and outputs 
 * [Summary Table for 2016](Images/2016_Stocks_ScrShot.png)
 * [Summary Table for 2015](Images/2015_Stocks_ScrShot.png)
 * [Summary Table for 2014](Images/2014_Stocks_ScrShot.png)
